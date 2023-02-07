@@ -1,6 +1,6 @@
 ---
 title: Le puits d'eau potable d'Akalantine
-desc: Le puits d'eau potable transformateur d'Akalantine : un reportage sur l'initiative du Roi Mohammed V
+desc: Le puits d'eau potable transformateur d'Akalantine \ un reportage sur l'initiative du Roi Mohammed V
 name: N Chetbi
 author: nfl0
 date: 07-02-2023
