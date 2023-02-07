@@ -8,7 +8,7 @@ author: nfl0
 date: 07-02-2023
 image: https://github.com/nfl0/webassets/blob/master/blogs/teambery.png?raw=true
 tag: dummy
-layout: editorial
+layout: landing
 ---
 
 # Le puits d'eau potable transformateur d'Akalantine : un reportage sur l'initiative du Roi Mohammed V
@@ -21,18 +21,27 @@ Un tel projet est situé dans le village d'Akalantine, où un puits a été creu
 
 <div>
 
+<figure><img src="https://raw.githubusercontent.com/nfl0/webdata/master/.gitbook/assets/1.jpg" alt=""><figcaption></figcaption></figure>
 
-  <figure><img src="https://raw.githubusercontent.com/nfl0/webdata/master/.gitbook/assets/1.jpg" alt=""><figcaption></figcaption></figure>
-  
-  <figure><img src="https://raw.githubusercontent.com/nfl0/webdata/master/.gitbook/assets/2.jpg" alt=""><figcaption></figcaption></figure>
-  
-  <figure><img src="https://raw.githubusercontent.com/nfl0/webdata/master/.gitbook/assets/3.jpg" alt=""><figcaption></figcaption></figure>
-  
-  <figure><img src="https://raw.githubusercontent.com/nfl0/webdata/master/.gitbook/assets/4.jpg" alt=""><figcaption></figcaption></figure>
-  
-  <figure><img src="https://raw.githubusercontent.com/nfl0/webdata/master/.gitbook/assets/5.jpg" alt=""><figcaption></figcaption></figure>
-  
-  <figure><img src="https://raw.githubusercontent.com/nfl0/webdata/master/.gitbook/assets/6.jpg" alt=""><figcaption></figcaption></figure>
+ 
+
+<figure><img src="https://raw.githubusercontent.com/nfl0/webdata/master/.gitbook/assets/2.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="https://raw.githubusercontent.com/nfl0/webdata/master/.gitbook/assets/3.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="https://raw.githubusercontent.com/nfl0/webdata/master/.gitbook/assets/4.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="https://raw.githubusercontent.com/nfl0/webdata/master/.gitbook/assets/5.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="https://raw.githubusercontent.com/nfl0/webdata/master/.gitbook/assets/6.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
