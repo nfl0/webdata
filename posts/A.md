@@ -21,27 +21,18 @@ Un tel projet est situé dans le village d'Akalantine, où un puits a été creu
 
 <div>
 
-<figure><img src="../.gitbook/assets/6.jpg" alt=""><figcaption></figcaption></figure>
 
- 
-
-<figure><img src="../.gitbook/assets/5.jpg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/4.jpg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/3.jpg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/2.jpg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/1.jpg" alt=""><figcaption></figcaption></figure>
+  <figure><img src="https://raw.githubusercontent.com/nfl0/webdata/master/.gitbook/assets/1.jpg" alt=""><figcaption></figcaption></figure>
+  
+  <figure><img src="https://raw.githubusercontent.com/nfl0/webdata/master/.gitbook/assets/2.jpg" alt=""><figcaption></figcaption></figure>
+  
+  <figure><img src="https://raw.githubusercontent.com/nfl0/webdata/master/.gitbook/assets/3.jpg" alt=""><figcaption></figcaption></figure>
+  
+  <figure><img src="https://raw.githubusercontent.com/nfl0/webdata/master/.gitbook/assets/4.jpg" alt=""><figcaption></figcaption></figure>
+  
+  <figure><img src="https://raw.githubusercontent.com/nfl0/webdata/master/.gitbook/assets/5.jpg" alt=""><figcaption></figcaption></figure>
+  
+  <figure><img src="https://raw.githubusercontent.com/nfl0/webdata/master/.gitbook/assets/6.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
