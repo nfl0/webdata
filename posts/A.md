@@ -1,19 +1,52 @@
 ---
-title: "TeamBery"
-desc: "Divided by Pandemic, United by TeamBery"
-name: "P Sharan"
-author: "sharan6422"
-date: "28-07-2020"
-image: "https://github.com/stacsnssce/webassets/blob/master/blogs/teambery.png?raw=true"
-tag: "dummy"
+title: TeamBery
+desc: Divided by Pandemic, United by TeamBery
+name: P Sharan
+author: sharan6422
+date: 28-07-2020
+image: >-
+  https://github.com/stacsnssce/webassets/blob/master/blogs/teambery.png?raw=true
+tag: dummy
 ---
-TeamBery is essentially a lockdown brainchild. Even though we always had this idea for a startup, the lockdown aided a lot in the implementation of the idea. Ours was a collective idea to provide web services at a nominal cost. We were searching for ideas even before lockdown but the sudden local technological revolution helped us in narrowing down the choices. We fiddled with the choices available and understood that doing web development services is the need of the hour. We are a team of six people Vyshnav Prasanth, Devidas K, Abdul Basith, Pranav K.S, Abhijith Krishna, and Sharan Parimalan.  
 
+# Le puits d'eau potable transformateur d'Akalantine : un reportage sur l'initiative du Roi Mohammed V
 
-![TeamBery](https://github.com/stacsnssce/webassets/blob/master/blogs/teambery.png?raw=true)
+L'Association du Roi Mohammed VI pour le développement des communes rurales a lancé une importante initiative pour améliorer l'accès à l'eau potable propre dans les zones rurales du Maroc. L'initiative fait partie d'un plus grand programme d'une valeur de 115 milliards de dirhams, visant à améliorer l'accès à l'eau potable et à l'irrigation dans le pays.
 
+<figure><img src="https://middle-east-online.com/sites/default/files/styles/home_special_coverage_1920xauto/public/2022-11/morocco%20king%20Mohammed%20VI.jpg?itok=AkrS_z5G" alt=""><figcaption></figcaption></figure>
 
-Our first gig landed just before we were planning the official release of the website. The client was a friend and we were asked to design a website for his advertising company. We got regular feedback from the client and that helped us to make a website that catered all their needs. The first two works helped us in understanding the customer point of view and how we can provide services that meet their expectations.  
-On 11 June 2020, we officially released our website. We got huge support from our friends and teachers. Our initial investments were from our family, which helped in the proper realization of the startup. With works coming regularly, we can confidently say that we are headed in the right direction.
+Un tel projet est situé dans le village d'Akalantine, où un puits a été creusé à une profondeur de 150 mètres et équipé d'une infrastructure de plomberie de pointe et d'un système de panneaux solaires. Ce projet représente une étape significative dans les efforts visant à fournir de l'eau potable propre et accessible à la population rurale.
 
+<div>
 
+<figure><img src="../.gitbook/assets/6.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/5.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/4.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/3.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/2.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/1.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Le puits dans le village d'Akalantine n'est pas seulement une source d'eau potable pour la communauté locale, mais il sert également de modèle pour de futurs projets similaires dans la région. L'utilisation de sources d'énergie durables, telles que les panneaux solaires, démontre l'engagement de l'Association du Roi Mohammed VI en faveur d'un développement respectueux de l'environnement.
+
+<figure><img src="https://www.moroccoworldnews.com/wp-content/uploads/2023/01/casablanca-to-host-fifth-industry-mornings-to-discuss-moroccos-water-management-800x450.jpeg" alt=""><figcaption></figcaption></figure>
+
+Ce projet est un témoignage du pouvoir transformateur de l'investissement dans l'infrastructure rurale et met en évidence l'impact positif qui peut être atteint grâce à l'effort combiné du gouvernement, des organisations sans but lucratif et du secteur privé. Les habitants d'Akalantine peuvent désormais accéder à de l'eau potable propre, améliorant ainsi leur qualité de vie et leur permettant de se concentrer sur d'autres domaines de développement.
+
+En conclusion, le projet d'eau potable du puits à Akalantine est un exemple éclatant de l'engagement de l'Association du Roi Mohammed VI à améliorer la vie des communautés rurales. Il sert de modèle pour de futures initiatives similaires et démontre l'impact qui peut être atteint grâce à un investissement dans l'infrastructure rurale. Les habitants du village d'Akalantine et de la région environnante sont reconnaissants pour cette initiative et pour le soutien continu de l'Association du Roi Mohammed VI pour le développement des communes rurales.
