@@ -47,11 +47,11 @@ Un tel projet est situé dans le village d'Akalantine, où un puits a été creu
 
 <div>
 
-<figure><img src="../.gitbook/assets/8 (2).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/nfl0/webdata/master/.gitbook/assets/8 (2).jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/7.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/nfl0/webdata/master/.gitbook/assets/7.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
