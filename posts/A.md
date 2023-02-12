@@ -45,6 +45,16 @@ Un tel projet est situé dans le village d'Akalantine, où un puits a été creu
 
 </div>
 
+<div>
+
+<figure><img src="../.gitbook/assets/8 (2).jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/7.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 Le puits dans le village d'Akalantine n'est pas seulement une source d'eau potable pour la communauté locale, mais il sert également de modèle pour de futurs projets similaires dans la région. L'utilisation de sources d'énergie durables, telles que les panneaux solaires, démontre l'engagement de l'Association du Roi Mohammed VI en faveur d'un développement respectueux de l'environnement.
 
 <figure><img src="https://www.moroccoworldnews.com/wp-content/uploads/2023/01/casablanca-to-host-fifth-industry-mornings-to-discuss-moroccos-water-management-800x450.jpeg" alt=""><figcaption></figcaption></figure>
