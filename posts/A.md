@@ -12,7 +12,7 @@ layout: landing
 
 <h1>Le puits d'eau potable transformateur d'Akalantine : une initiative soutenue par le Ministère de l'Agriculture</h1>
 
-<p>Le Maroc s'efforce de fournir un accès fiable à l'eau potable aux communautés rurales du pays. Dans le cadre de ces efforts, le Ministère de l'Agriculture a parrainé un important projet pour améliorer l'accès à l'eau potable propre dans les zones rurales. Le projet d'une valeur de 115 milliards de dirhams, vise à améliorer l'accès à l'eau potable et à l'irrigation dans le pays.</p>
+<p>Le Maroc s'efforce de fournir un accès fiable à l'eau potable aux communautés rurales du pays. Dans le cadre de ces efforts, le Ministère de l'Agriculture a parrainé un important projet pour améliorer l'accès à l'eau potable propre dans les zones rurales. Le projet vise à améliorer l'accès à l'eau potable et à l'irrigation dans le pays.</p>
 
 <figure><img src="https://middle-east-online.com/sites/default/files/styles/home_special_coverage_1920xauto/public/2022-11/morocco%20king%20Mohammed%20VI.jpg?itok=AkrS_z5G" alt=""><figcaption></figcaption></figure>
 
