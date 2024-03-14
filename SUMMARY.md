@@ -53,3 +53,4 @@
 * [posts](posts/README.md)
   * [Le puits d'eau potable transformateur d'Akalantine : un reportage sur l'initiative du Roi Mohammed V](posts/A.md)
   * [New post](posts/new-post.md)
+  * [second new post](posts/second-new-post.md)

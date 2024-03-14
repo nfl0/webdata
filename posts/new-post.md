@@ -1,6 +1,18 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+---
+
 # New post
 
-post content
 
-<figure><img src="../.gitbook/assets/sous.jpeg" alt=""><figcaption></figcaption></figure>
 
