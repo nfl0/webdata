@@ -47,7 +47,7 @@ Un exemple concret de cette initiative se trouve dans le village d'Akalantine, o
 
 <div>
 
-<figure><img src="https:/raw.githubusercontent.com/nfl0/webdata/master/.gitbook/assets/8%20(2).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../posts/https:/raw.githubusercontent.com/nfl0/webdata/master/.gitbook/assets/8%20(2).jpg" alt=""><figcaption></figcaption></figure>
 
  
 
