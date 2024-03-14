@@ -1,2 +1,0 @@
-# FOSS Blender Workshop
-

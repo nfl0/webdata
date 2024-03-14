@@ -1,2 +1,0 @@
-# Participation in DevSprint
-

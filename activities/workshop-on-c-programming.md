@@ -1,2 +1,0 @@
-# Workshop on C programming
-

@@ -1,2 +1,0 @@
-# STACS inauguration
-

@@ -1,2 +1,0 @@
-# Fresher's Introductory Session
-
