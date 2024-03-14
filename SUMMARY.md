@@ -50,6 +50,5 @@
   * [Newsletter 2019-20](newsletter/201920.md)
   * [Newsletter 2020-21](newsletter/202021.md)
   * [Newsletter 2021-22](newsletter/202122.md)
-* [posts](test-post/README.md)
-  * [Le puits d'eau potable transformateur d'Akalantine : un reportage sur l'initiative du Roi Mohammed V](test-post/a.md)
-  * [Test Post](posts/test-post.md)
+* [posts](posts/README.md)
+  * [Le puits d'eau potable transformateur d'Akalantine : un reportage sur l'initiative du Roi Mohammed V](posts/a.md)
