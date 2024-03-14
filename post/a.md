@@ -1,4 +1,13 @@
 ---
+title: Le puits d'eau potable d'Akalantine
+desc: >-
+  Le puits d'eau potable transformateur d'Akalantine : une initiative soutenue
+  par le Ministère de l'Agriculture
+name: N Chetbi
+author: nfl0
+date: 07-02-2023
+image: https://github.com/nfl0/webassets/blob/master/blogs/teambery.png?raw=true
+tag: dummy
 layout: landing
 ---
 
@@ -38,7 +47,7 @@ Un exemple concret de cette initiative se trouve dans le village d'Akalantine, o
 
 <div>
 
-<figure><img src="https:/raw.githubusercontent.com/nfl0/webdata/master/.gitbook/assets/8%20(2).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../posts/https:/raw.githubusercontent.com/nfl0/webdata/master/.gitbook/assets/8%20(2).jpg" alt=""><figcaption></figcaption></figure>
 
  
 
